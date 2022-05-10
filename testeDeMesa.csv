@@ -1,0 +1,7 @@
+a;result;i <= a;i (++);if (i % 5 == 0);result
+100;[];true;5;true;[5]
+;;true;6;false;[5]
+;;true;7;false;[5]
+;;true;8;false;[5]
+;;true;9;false;[5]
+;;true;10;true;[5,10]
